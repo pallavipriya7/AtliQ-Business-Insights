@@ -17,26 +17,41 @@ MYSQL, Excel, Power BI
 **PowerBI techniques Learnt**
 
 Questions we should asked before starting the project
+
 Creating calculated/Conditional columns
+
 creating measure using DAX language
+
 Data modeling
+
 Using Bookmarks to switch between two visuals
+
 Page navigation with buttons
+
 Using divide function to prevent zero division errors
+
 creating date table using m language
+
 Dynamic titles based on the applied filters
+
 Using KPI indicators
+
 Conditional formatting the values in visuals using icons or background color
+
 Data validation techniques
+
 PowerBi services
+
 Publishing reports to PowerBi services
+
 Setting up personal gateway to set up the auto refresh of data
+
 PowerBi App creation
+
 Collaboration, workspace, access permissions in PowerBi services
 
 **Dashboard**
 
-**Home Page:**
 ![Animation1](https://github.com/pallavipriya7/AtliQ-Business-Insights/assets/136942897/1b71f3ce-85ec-4b93-a815-bb753b4bd069)
 
 
